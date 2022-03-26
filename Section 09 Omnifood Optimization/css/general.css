@@ -42,6 +42,8 @@ html {
     /* font-size: 10px; */
     font-size: 62.5%;
     overflow-x: hidden;
+    scroll-behavior: smooth;
+    /* DOESN'T WORK ON SAFARI */
 }
 
 body {
@@ -50,6 +52,7 @@ body {
     font-weight: 400;
     color: #555;
     overflow-x: hidden;
+
 }
 
 
